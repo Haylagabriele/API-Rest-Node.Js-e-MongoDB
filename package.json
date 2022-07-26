@@ -1,0 +1,27 @@
+{
+  "name": "api-rest-node.js-e-mongodb",
+  "version": "1.0.0",
+  "description": "- A api será baseado me framework Express para tratra as reqisições e enviar as respostas aos endPoints;\r - Utiliza-se o MongoDB como banco, com a ODM Mongoose;\r - As operações serão realizadas no MongoDB Atlas;\r - O pacore Nodemon vai ajudar a atualizar o código em tempo real da aplicação;\r - A API será testada pelo software Postman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./idnex.js localhost 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haylagabriele/API-Rest-Node.Js-e-MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Haylagabriele/API-Rest-Node.Js-e-MongoDB/issues"
+  },
+  "homepage": "https://github.com/Haylagabriele/API-Rest-Node.Js-e-MongoDB#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.6",
+    "nodemon": "^2.0.19"
+  }
+}
