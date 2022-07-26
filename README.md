@@ -46,3 +46,5 @@
 
 -Midlewares que são executados entre as requisições e respostas
 - app.use arquivo de confuguração nas classes
+
+https://user-images.githubusercontent.com/82326458/181131806-9ee8f5d9-3299-4ba4-8bc1-8b23c313f879.mp4
