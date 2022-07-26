@@ -48,3 +48,4 @@
 - app.use arquivo de confuguração nas classes
 
 https://user-images.githubusercontent.com/82326458/181131806-9ee8f5d9-3299-4ba4-8bc1-8b23c313f879.mp4
+https://user-images.githubusercontent.com/82326458/181132042-b0d9adcb-86a7-4a0f-9644-6b800bfa9bbc.mp4
