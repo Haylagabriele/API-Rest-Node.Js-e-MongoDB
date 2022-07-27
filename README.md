@@ -1,6 +1,6 @@
 # API-Rest-Node.Js-e-MongoDB
 
-- A api será baseado me framework Express para tratra as reqisições e enviar as respostas aos endPoints;
+- A api será baseado no framework Express para tratar as requisições e enviar as respostas aos endPoints;
 - Utiliza-se o MongoDB como banco, com a ODM Mongoose;
 - As operações serão realizadas no MongoDB Atlas;
 - O pacore Nodemon vai ajudar a atualizar o código em tempo real da aplicação;
